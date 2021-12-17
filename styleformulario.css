@@ -1,0 +1,21 @@
+h1{
+    font-size: 8mm;
+}
+
+.contenedor{
+    margin-left: 10mm;
+    margin-right: 10mm;
+    margin-top: 10mm;
+    margin-block-end: 10mm;
+}
+    
+
+.contenedor{
+    width: auto;
+    height: auto;
+    background-color:lightgray;
+    
+    font-size: x-large;
+}
+
+
